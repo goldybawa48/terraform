@@ -10,6 +10,7 @@ Terraform is an open-source tool created by HashiCorp. It helps you manage your 
 - **Plan**: Use `terraform plan` to preview the changes that will be applied to your infrastructure.
 - **Apply**: Execute `terraform apply` to provision the defined infrastructure.
 - **Manage**: Use `terraform destroy` to tear down infrastructure when it's no longer needed.
+- **Don't worry we will discuss about all these commands in the next chapters**
 
 ## Installation
 
